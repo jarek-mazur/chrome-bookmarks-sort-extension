@@ -1,8 +1,8 @@
 {
-    "name": "Bajaks extension",
+    "name": "Rusinowa wtyczka",
     "version": "1.0",
-    "description": "Pierwsza Jarkowa wtyczka",
-    "permissions": ["declarativeContent", "storage", "bookmarks"],
+    "description": "Wtyczka zrobiona na specjalne życzenie RR",
+    "permissions": ["bookmarks"],
     "background": {
         "scripts": ["background.js"],
         "persistent": false
